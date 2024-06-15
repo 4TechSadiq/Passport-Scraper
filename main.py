@@ -151,7 +151,7 @@ def extract_passport_info(image_path):
         return json.dumps({"error": str(e)}, indent=4)
 
 # Define the image path
-image_path = "D:/TEFORA INTERSHIP/process1/pass14.jpg"
+image_path = ""
 
 # Extract passport information and print the JSON result
 passport_info_json = extract_passport_info(image_path)
