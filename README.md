@@ -1,6 +1,6 @@
 # Passport Scraper
 
-This project uses OpenCV and Tesseract OCR to extract and annotate textual information from passport images. The script processes the image to enhance text recognition accuracy and extracts key details such as passport number, full name, surname, nationality, country code, date of birth, date of issue, date of expiry, gender, place of birth, and place of issue.
+This project uses OpenCV and Tesseract OCR to extract and annotate textual information from Indian passport images. The script processes the image to enhance text recognition accuracy and extracts key details such as passport number, full name, surname, nationality, country code, date of birth, date of issue, date of expiry, gender, place of birth, and place of issue.
 
 ## Features:
 - **Image Preprocessing**: Converts the image to grayscale, sharpens it, and applies denoising to improve text detection accuracy.
