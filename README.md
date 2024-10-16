@@ -26,7 +26,7 @@ This project uses OpenCV and Tesseract OCR to extract and annotate textual infor
     - Modify the `image_path` variable to point to your image.
     - Run the script:
       ```python
-      python extract_passport_info.py
+      python main.py
       ```
 
 2. **Output**:
